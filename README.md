@@ -1,6 +1,6 @@
 # This repository consists of vendor blobs for GT-S7262 (logan2g) handsets.
 
-# Cyanogenmod 11.0
+# Cyanogenmod 12.1
 
 ### Samsung Galaxy Star Pro/Plus:
  * Manufacturer: Samsung
@@ -19,7 +19,7 @@
 * Open terminal in Cyanogenmod source directory.
 * mkdir -p device/samsung
 * cd device/samsung/
-* git clone -b cm-11.0 https://github.com/ItsAnilSingh/android_device_samsung_logan2g.git logan2g
+* git clone -b cm-12.1 https://github.com/ItsAnilSingh/android_device_samsung_logan2g.git logan2g
 
 ### Kernel Source
 * Open terminal in Cyanogenmod source directory.
