@@ -16,9 +16,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/logan2g/proprietary/bin/akmd8975:system/bin/akmd8975 \
     vendor/samsung/logan2g/proprietary/bin/at_distributor:system/bin/at_distributor \
     vendor/samsung/logan2g/proprietary/bin/bcm4330.hcd:system/bin/bcm4330.hcd \
-    vendor/samsung/logan2g/proprietary/bin/bcm_dut:system/bin/bcm_dut \
-    vendor/samsung/logan2g/proprietary/bin/bluetoothd:system/bin/bluetoothd \
-    vendor/samsung/logan2g/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/samsung/logan2g/proprietary/bin/btld:system/bin/btld \
     vendor/samsung/logan2g/proprietary/bin/calibration_init:system/bin/calibration_init \
     vendor/samsung/logan2g/proprietary/bin/cpu:system/bin/cpu \
@@ -31,7 +28,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/logan2g/proprietary/bin/ext_data.sh:system/bin/ext_data.sh \
     vendor/samsung/logan2g/proprietary/bin/ext_kill.sh:system/bin/ext_kill.sh \
     vendor/samsung/logan2g/proprietary/bin/ext_symlink.sh:system/bin/ext_symlink.sh \
-    vendor/samsung/logan2g/proprietary/bin/hciattach:system/bin/hciattach \
     vendor/samsung/logan2g/proprietary/bin/hostapd:system/bin/hostapd \
     vendor/samsung/logan2g/proprietary/bin/immvibed:system/bin/immvibed \
     vendor/samsung/logan2g/proprietary/bin/lpmkey:system/bin/lpmkey \
